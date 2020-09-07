@@ -1,0 +1,24 @@
+[PROJECT]
+Target=main_master.hex
+Processor_Text=PIC18F4520
+CCSVerions=5.015
+Compiler=PCH
+CCSVersion=5.015
+[Target Data]
+FileList=main_master.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\DriversC:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Program Files (x86)\PICC\Drivers\C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\
+[C:\Users\Erick Miranda\Desktop\Display_Wireless_Master\main_master]
+Type=4
+[mru-list]
+1=main_master.c
+[Opened Files]
+1=main_master.c
+2=
+3=
+4=
+[main_master.c]
+Type=4
+[Units]
+Count=1
+1=main_master (main)

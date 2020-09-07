@@ -1,0 +1,14 @@
+{"configuration": {
+	"uri_endpoint": "http://mis.tia.com.ec/consultas/uplink/?sucursal=",
+	"store": "320",
+	"default": 1	
+},"wifi": {
+	"ssid": "NETLIFE-QUINDE",
+	"pass": "0931017271",
+	"dhcp": 1,
+	"ip": "192.168.100.150",
+	"mask": "255.255.255.0",
+	"gateway": "192.168.100.1",
+	"dns1": "8.8.8.8",
+	"dns2": "8.8.4.4"
+}}

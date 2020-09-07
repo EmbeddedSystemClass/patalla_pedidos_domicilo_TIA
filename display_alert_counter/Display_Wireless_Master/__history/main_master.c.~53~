@@ -1,0 +1,63 @@
+#include <main_master.h>
+#include "lib_rf2gh4_10.h"
+                                 
+#define DISPLAY_SS   PIN_D1 
+                                
+// Modos de comunicación SPI         
+#define SPI_MODE_0  (SPI_L_TO_H | SPI_XMIT_L_TO_H)          
+#define SPI_MODE_1  (SPI_L_TO_H) 
+#define SPI_MODE_2  (SPI_H_TO_L) 
+#define SPI_MODE_3  (SPI_H_TO_L | SPI_XMIT_L_TO_H)             
+
+#byte PORTA = 0xF80    // Dirección del Registro para 18F4520
+#byte PORTB = 0xF81    // Dirección del Registro para 18F4520     
+#byte PORTC = 0xF82    // Dirección del Registro para 18F4520
+#byte PORTD = 0xF83    // Dirección del Registro para 18F4520                                             
+#byte SSPBUF = 0xFC9   // Dirección del Registro para 18F4520 
+                                                                                    
+unsigned int8 valor;
+         
+         
+#int_ext                   // Interrupción del módulo RF. 
+void int_RB0(){ 
+             
+   int8 ret1;
+                           
+   ret1 = RF_RECEIVE();
+   if ( (ret1 == 0) || (ret1 == 1) ){       // Tanto si hay recepción simple o múltiple, leer datos.
+      do{                                   
+         valor=RF_DATA[0];                  // El puerto A contendrá el valor que le llegue del emisor, a través de RF_DATA[0].
+         ret1 = RF_RECEIVE();               // "ret1" nos dirá si hay recepción simple, múltiple o no hay datos para leer.
+      }while( (ret1 == 0) || (ret1 == 1) ); // Mientras haya datos para leer, seguir leyendo.
+   }  
+}
+ 
+
+void write_display(unsigned int8 n){ 
+
+   output_low(DISPLAY_SS);                          
+   spi_write(n);                    
+   output_high(DISPLAY_SS);                
+   delay_ms(10);          
+}
+           
+void main() {    
+
+   output_high(DISPLAY_SS);
+   output_high(RF_CS);  
+   SETUP_SPI(SPI_MASTER | SPI_MODE_0 | SPI_CLK_DIV_4 | SPI_SAMPLE_AT_END);  
+   delay_ms(10);  
+   
+   RF_INT_EN();
+   RF_CONFIG(0x40,0x01);     // Configurar módulo RF (canal y dirección).
+   RF_ON();                  // Activar el módulo RF.
+                                        
+   valor = 50;                                                                              
+   delay_ms(7000);
+   
+   while(TRUE) {             // Mai Loop.   
+                   
+      write_display(valor);                                                               
+           
+   }                   
+}                                                                    
