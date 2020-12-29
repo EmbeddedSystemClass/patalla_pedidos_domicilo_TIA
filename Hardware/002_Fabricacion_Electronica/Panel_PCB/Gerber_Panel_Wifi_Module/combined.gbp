@@ -1,0 +1,85 @@
+%MOIN*%
+%OFA0B0*%
+%FSLAX44Y44*%
+%IPPOS*%
+%LPD*%
+%ADD10C,0.047244094488188976*%
+%ADD21C,0.047244094488188976*%
+G01*
+G75*
+D10*
+X00003937Y00001968D02*
+D03*
+X00078409Y00001968D02*
+D03*
+G04 next file*
+G04 Layer_Color=128*
+G04 skipping 71
+G01*
+G75*
+D21*
+X00078409Y00083858D02*
+D03*
+X00003937Y00083858D02*
+D03*
+G04 next file*
+G04 Layer_Color=128*
+G04 skipping 71
+G01*
+G75*
+G04 next file*
+G04 Layer_Color=128*
+G04 skipping 71
+G01*
+G75*
+G04 next file*
+G04 Layer_Color=128*
+G04 skipping 71
+G01*
+G75*
+G04 next file*
+G04 Layer_Color=128*
+G04 skipping 71
+G01*
+G75*
+G04 next file*
+G04 Layer_Color=128*
+G04 skipping 71
+G01*
+G75*
+G04 next file*
+G04 Layer_Color=128*
+G04 skipping 71
+G01*
+G75*
+G04 next file*
+G04 Layer_Color=128*
+G04 skipping 71
+G01*
+G75*
+G04 next file*
+G04 Layer_Color=128*
+G04 skipping 71
+G01*
+G75*
+G04 next file*
+G04 Layer_Color=128*
+G04 skipping 71
+G01*
+G75*
+G04 next file*
+G04 Layer_Color=128*
+G04 skipping 71
+G01*
+G75*
+G04 next file*
+G04 Layer_Color=128*
+G04 skipping 71
+G01*
+G75*
+G04 next file*
+G04 Layer_Color=128*
+G04 skipping 71
+G01*
+G75*
+M02*

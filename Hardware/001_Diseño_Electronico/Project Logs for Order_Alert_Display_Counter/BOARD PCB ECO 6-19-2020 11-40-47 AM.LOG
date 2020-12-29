@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=P1-S1
+Removed Pin From Net: NetName=GND Pin=P1-S2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-29
+Added Class: Name=Undefined

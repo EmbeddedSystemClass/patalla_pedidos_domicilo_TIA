@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PLDISPLAYMASTER.PcbDoc   6/24/2020  12:05:03 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PLDISPLAYMASTER.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.6mm (24mil)                                             Round             108       PTH        964.57mm (37.98inch)
+T2      0.7mm (28mil)                                             Round             2         PTH        2.00mm (0.08inch)
+T3      0.711mm (28mil)                                           Round             67        PTH        694.09mm (27.33inch)
+T4      0.8mm (31mil)                                             Round             12        PTH        182.91mm (7.20inch)
+T5      0.9mm (35mil)                                             Round             13        PTH        152.63mm (6.01inch)
+T6      1.1mm (43mil)                                             Round             50        PTH        369.95mm (14.56inch)
+T7      1.2mm (47mil)                                             Round             7         PTH        128.25mm (5.05inch)
+T8      1.3mm (51mil)                                             Round             12        PTH        176.64mm (6.95inch)
+T9      1.4mm (55mil)                                             Round             6         PTH        109.49mm (4.31inch)
+T10     1.5mm (59mil)                                             Round             20        PTH        377.36mm (14.86inch)
+T11     3mm (118mil)                                              Round             5         NPTH       405.23mm (15.95inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              302
+
+Total Processing Time (hh:mm:ss) : 00:00:01

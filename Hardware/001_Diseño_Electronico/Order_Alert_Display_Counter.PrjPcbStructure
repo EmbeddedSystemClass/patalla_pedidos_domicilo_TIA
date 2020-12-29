@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=main_sheet.SchDoc
+Record=SheetSymbol|SourceDocument=main_sheet.SchDoc|Designator=SH2|SchDesignator=SH2|FileName=ESP8266_Core.SchDoc|SymbolType=Normal|RawFileName=ESP8266_Core.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main_sheet.SchDoc|Designator=SH3|SchDesignator=SH3|FileName=CP2102.SchDoc|SymbolType=Normal|RawFileName=CP2102.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main_sheet.SchDoc|Designator=SH4|SchDesignator=SH4|FileName=Level_Shifter.SchDoc|SymbolType=Normal|RawFileName=Level_Shifter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

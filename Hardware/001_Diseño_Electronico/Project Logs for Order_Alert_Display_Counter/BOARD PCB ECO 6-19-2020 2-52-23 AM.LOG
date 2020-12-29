@@ -1,0 +1,14 @@
+Added Component: Designator=P1(USB_MICRO_B_AT)
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=VUSB Pin=P1-1
+Added Pin To Net: NetName=USB_M Pin=P1-2
+Added Pin To Net: NetName=USB_P Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Member To Class: ClassName=main_sheet Member=Component P1 USB Micro

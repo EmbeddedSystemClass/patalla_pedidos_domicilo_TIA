@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=+3.3VDC Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=+3.3VDC Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=+3.3VDC Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=VUSB Pin=C11-2
+Removed Pin From Net: NetName=DTR Pin=Q3-2
+Removed Pin From Net: NetName=FLASH Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-29
+Change Component DesignItemId : Designator=C5 Old DesignItemId=Cap 10uF (C3216) New DesignItemId=Cap 100nF (0603)
+Change Component Footprint: Designator=C5 Old Footprint=TAJB107M006RNJ New Footprint=C0603C104K5RACTU
+Change Component Comment : Designator=D1 Old Comment=1N5817 New Comment=1N5817WS
+Change Component Comment : Designator=Q4 Old Comment=2N7000 New Comment=2N7002A-7
+Change Component Comment : Designator=Q5 Old Comment=2N7000 New Comment=2N7002A-7
+Change Component Comment : Designator=C1 Old Comment=100nF New Comment=CL10B104KC8NNNC
+Change Component Comment : Designator=C2 Old Comment=100nF New Comment=CL10B104KC8NNNC
+Change Component Comment : Designator=C3 Old Comment=100nF New Comment=CL10B104KC8NNNC
+Change Component Comment : Designator=C4 Old Comment=100nF New Comment=CL10B104KC8NNNC
+Change Component Comment : Designator=D2 Old Comment=CD214A-B340LF New Comment=SS32
+Change Component Comment : Designator=C8 Old Comment=EMK107BBJ106MA-T New Comment=CL10B104KC8NNNC
+Change Component Comment : Designator=C10 Old Comment=EMK107BBJ106MA-T New Comment=CL10B104KC8NNNC
+Change Component Comment : Designator=U1 Old Comment=ESP-12E&F Module New Comment= ESP-12F(ESP8266MOD)
+Change Component Comment : Designator=U2 Old Comment=IC USB-TO-UART BRIDGE New Comment=CP2102-GMR
+Change Component Comment : Designator=P2 Old Comment=IDC  5X2 New Comment= Z-231011010106
+Change Component Comment : Designator=IC1 Old Comment=LM1117DT New Comment=LM1117DTX-3.3/NOPB
+Change Component Comment : Designator=Q2 Old Comment=MMBT3904 New Comment=MMBT3904LT3G
+Change Component Comment : Designator=Q3 Old Comment=MMBT3904 New Comment=MMBT3904LT3G
+Change Component Comment : Designator=Q1 Old Comment=MMBT3906 New Comment=MMBT3906-7-F
+Change Component Comment : Designator=C5 Old Comment=TAJB107M006RNJ New Comment=CL10B104KC8NNNC
+Change Component Comment : Designator=VR1 Old Comment=Trimmer Cermet 104 New Comment=3362P-1-502LF
+Change Component Comment : Designator=P1 Old Comment=USB Micro New Comment=C10418
+Added Component: Designator=C6(TAJB107M006RNJ)
+Added Component: Designator=C9(C0603C104K5RACTU)
+Added Component: Designator=C11(C0603C104K5RACTU)
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+3.3VDC Pin=C5-2
+Added Pin To Net: NetName=+3.3VDC Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+3.3VDC Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VUSB Pin=C10-2
+Added Pin To Net: NetName=FLASH Pin=Q3-2
+Added Pin To Net: NetName=DTR Pin=Q3-3
+Added Member To Class: ClassName=main_sheet Member=Component C6 TAJB107M006RNJ
+Added Member To Class: ClassName=SH3 Member=Component C9 EMK107BBJ106MA-T
+Added Member To Class: ClassName=SH3 Member=Component C11 EMK107BBJ106MA-T

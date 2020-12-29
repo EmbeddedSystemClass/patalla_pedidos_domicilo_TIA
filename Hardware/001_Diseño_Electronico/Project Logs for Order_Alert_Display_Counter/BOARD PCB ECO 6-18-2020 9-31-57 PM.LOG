@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NRST Pin=R1-2
+Removed Pin From Net: NetName=EN Pin=R2-2
+Removed Pin From Net: NetName=NRST Pin=R3-2
+Added Pin To Net: NetName=NRST Pin=C1-2
+Added Pin To Net: NetName=FLASH Pin=R1-2
+Added Pin To Net: NetName=GPIO2 Pin=R2-2
+Added Pin To Net: NetName=EN Pin=R3-2
+Added Pin To Net: NetName=NRST Pin=R4-2

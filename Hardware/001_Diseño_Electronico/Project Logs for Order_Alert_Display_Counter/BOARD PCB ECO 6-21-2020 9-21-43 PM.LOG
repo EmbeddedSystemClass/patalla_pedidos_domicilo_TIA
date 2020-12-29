@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+3.3VDC Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=FLASH Pin=Q3-2
+Removed Pin From Net: NetName=DTR Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=U2-29
+Change Component Description : Designator=C5 Old Description=Capacitor New Description=
+Change Component Description : Designator=P1 Old Description=USB Mini New Description=USB Micro
+Added Component: Designator=C6(TAJB107M006RNJ)
+Added Component: Designator=C9(C0603C104K5RACTU)
+Added Component: Designator=C11(C0603C104K5RACTU)
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+3.3VDC Pin=C5-2
+Added Pin To Net: NetName=+3.3VDC Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+3.3VDC Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VUSB Pin=C10-2
+Added Pin To Net: NetName=DTR Pin=Q3-2
+Added Pin To Net: NetName=FLASH Pin=Q3-3
+Added Member To Class: ClassName=main_sheet Member=Component C6 TAJB107M006RNJ
+Added Member To Class: ClassName=SH3 Member=Component C9 EMK107BBJ106MA-T
+Added Member To Class: ClassName=SH3 Member=Component C11 EMK107BBJ106MA-T
