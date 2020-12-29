@@ -1,0 +1,128 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+004-005 @WRITE_PROGRAM_MEMORY8.P2
+005     PORTA
+006     PORTB
+007     PORTC
+013     SSPBUF
+014     SSPCON
+015     CCP_1
+015     CCP_1_LOW
+016     CCP_1_HIGH
+01B     CCP_2_LOW
+01B     CCP_2
+01C     CCP_2_HIGH
+020     @INTERRUPT_AREA
+021     @INTERRUPT_AREA
+022     @INTERRUPT_AREA
+023     @INTERRUPT_AREA
+024     @INTERRUPT_AREA
+025     @INTERRUPT_AREA
+026     @INTERRUPT_AREA
+027     @INTERRUPT_AREA
+028-02F display_segments
+030     digitos
+031.0   Enable_Display
+032     valor
+033     dispaly_init.shifter
+034     dispaly_init.i
+035     dispaly_init.j
+036     dispaly_init.@SCRATCH1
+037     @delay_ms1.P1
+03F     show_display.@SCRATCH1
+040     @DIV88.P1
+040     set_segments.n
+040     numero.v
+041     @DIV88.P1
+041     set_segments.i
+042     set_segments.@SCRATCH1
+042     @DIV88.@SCRATCH1
+043     @WRITEBITA.P1
+044     @WRITEBITA.P1
+045-046 @WRITEBITA.P1
+077     @SCRATCH
+078     @SCRATCH
+078     _RETURN_
+079     @SCRATCH
+07A     @SCRATCH
+07F     @INTERRUPT_AREA
+0FF     @INTERRUPT_AREA
+107.6   C1OUT
+108.6   C2OUT
+10D-10E @READ_PROGRAM_MEMORY8.P1
+10D-10E @WRITE_PROGRAM_MEMORY8.P2
+17F     @INTERRUPT_AREA
+1FF     @INTERRUPT_AREA
+27F     @INTERRUPT_AREA
+2FF     @INTERRUPT_AREA
+37F     @INTERRUPT_AREA
+3FF     @INTERRUPT_AREA
+47F     @INTERRUPT_AREA
+4FF     @INTERRUPT_AREA
+57F     @INTERRUPT_AREA
+5FF     @INTERRUPT_AREA
+67F     @INTERRUPT_AREA
+6FF     @INTERRUPT_AREA
+77F     @INTERRUPT_AREA
+7FF     @INTERRUPT_AREA
+87F     @INTERRUPT_AREA
+8FF     @INTERRUPT_AREA
+97F     @INTERRUPT_AREA
+9FF     @INTERRUPT_AREA
+A7F     @INTERRUPT_AREA
+AFF     @INTERRUPT_AREA
+B7F     @INTERRUPT_AREA
+BFF     @INTERRUPT_AREA
+C7F     @INTERRUPT_AREA
+CFF     @INTERRUPT_AREA
+D7F     @INTERRUPT_AREA
+DFF     @INTERRUPT_AREA
+E7F     @INTERRUPT_AREA
+EFF     @INTERRUPT_AREA
+F7F     @INTERRUPT_AREA
+FFF     @INTERRUPT_AREA
+
+ROM Allocation:
+000038  ssp_isr
+00003E  @WRITEBITA
+00005E  set_segments
+000090  numero
+0000E0  @DIV88
+0000F5  show_display
+000170  @delay_ms1
+000184  dispaly_init
+0001FE  MAIN
+0001FE  @cinit1
+000210  @cinit2
+
+Project Directory:
+    C:\Users\Erick Miranda\Desktop\Proyectos TIA\Wi-fi Alertas de Pedidos TIA\Order_Alert_Display_Counter\firmware\display_alert_counter\Display_Wireless_Slave\
+
+Project Files:
+    main_sclave.c                                           [18-Aug-20 10:23  CRC=9B075DD4]
+    main_sclave.h                                           [11-Jun-20 15:38  CRC=065861E9]
+    ..\..\..\..\..\..\..\..\..\Program Files (x86)\PICC\Devices\16F886.h [12-Nov-13 14:35  CRC=E3D32390]
+
+Source signature=690606DD
+
+Units:
+    main_sclave (main)
+
+Compiler Settings:
+    Processor:      PIC16F886
+    Pointer Size:   16
+    ADC Range:      0-65535
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+
+Output Files:
+    XREF file:   main_sclave.xsym
+    Errors:      main_sclave.err
+    Ext Symbols: main_sclave.esym
+    INHX8:       main_sclave.hex
+    Symbols:     main_sclave.sym
+    List:        main_sclave.lst
+    Debug/COFF:  main_sclave.cof
+    Project:     main_sclave.ccspjt
+    Call Tree:   main_sclave.tre
+    Statistics:  main_sclave.STA
