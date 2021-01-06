@@ -1,0 +1,38 @@
+Added Component: Designator=U2(ESP-32)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C95209"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/WIFI-Modules_Espressif-Systems-ESP32-WROOM-32_C95209.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$2.9267"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WIFI"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=+3.3VDC Pin=U2-2
+Added Pin To Net: NetName=EN Pin=U2-3
+Added Pin To Net: NetName=GPIO 34 Pin=U2-6
+Added Pin To Net: NetName=GPIO 35 Pin=U2-7
+Added Pin To Net: NetName=GPIO 32 Pin=U2-8
+Added Pin To Net: NetName=GPIO 33 Pin=U2-9
+Added Pin To Net: NetName=GPIO 25 Pin=U2-10
+Added Pin To Net: NetName=GPIO 26 Pin=U2-11
+Added Pin To Net: NetName=GPIO 27 Pin=U2-12
+Added Pin To Net: NetName=GPIO 14 Pin=U2-13
+Added Pin To Net: NetName=GPIO 12 Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GPIO 13 Pin=U2-16
+Added Pin To Net: NetName=GPIO 15 Pin=U2-23
+Added Pin To Net: NetName=DMD_SCLK Pin=U2-24
+Added Pin To Net: NetName=FLASH Pin=U2-25
+Added Pin To Net: NetName=GPIO 04 Pin=U2-26
+Added Pin To Net: NetName=GPIO 16 Pin=U2-27
+Added Pin To Net: NetName=GPIO 17 Pin=U2-28
+Added Pin To Net: NetName=GPIO 05 Pin=U2-29
+Added Pin To Net: NetName=DMD_CLK Pin=U2-30
+Added Pin To Net: NetName=DMD_A Pin=U2-31
+Added Pin To Net: NetName=DMD_B Pin=U2-33
+Added Pin To Net: NetName=CP_TXD Pin=U2-34
+Added Pin To Net: NetName=CP_RXD Pin=U2-35
+Added Pin To Net: NetName=DMD_E Pin=U2-36
+Added Pin To Net: NetName=DMD_DATA Pin=U2-37
+Added Pin To Net: NetName=GND Pin=U2-38
+Added Pin To Net: NetName=GND Pin=U2-39
+Added Member To Class: ClassName=SH2 Member=Component U2 ESP32-WROOM-32

@@ -1,0 +1,15 @@
+Added Component: Designator=R9(RES-TH_RK10J12E002L)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ALPS Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RK10J12E002L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C231765"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RK10J12E002L"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetC12_2 Pin=R9-2
+Added Pin To Net: NetName=GPIO 25 Pin=R9-3
+Added Pin To Net: NetName=NetC11_2 Pin=R9-4
+Added Pin To Net: NetName=GPIO 26 Pin=R9-5
+Added Member To Class: ClassName=SH4 Member=Component R9 10K

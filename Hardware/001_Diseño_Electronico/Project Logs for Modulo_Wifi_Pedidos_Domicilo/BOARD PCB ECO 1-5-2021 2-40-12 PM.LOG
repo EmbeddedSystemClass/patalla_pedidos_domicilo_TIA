@@ -1,0 +1,493 @@
+Removed Member From Class: ClassName=CP2102 Member=ESP_RXD0
+Removed Member From Class: ClassName=CP2102 Member=ESP_TXD0
+Removed Member From Class: ClassName=CP2102 Member=NetR7_2
+Added Component: Designator=C1(C0603C104K5RACTU)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C15725"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10B104KC8NNNC_100nF-104-10-100V_C15725.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART_NUM"; Value = "CL10B104KC8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0603C104K5RACTU)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART_NUM"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0603C104K5RACTU)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C15725"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10B104KC8NNNC_100nF-104-10-100V_C15725.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART_NUM"; Value = "CL10B104KC8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0603C104K5RACTU)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A106KP8NNNC_C19702.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART_NUM"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0603C104K5RACTU)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C15725"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10B104KC8NNNC_100nF-104-10-100V_C15725.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART_NUM"; Value = "CL10B104KC8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(3216 Case-A)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C110052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Tantalum-Capacitors_KEMET_T491A106K010AT_10uF-106-10-10V_C110052.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0603C104K5RACTU)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C15725"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10B104KC8NNNC_100nF-104-10-100V_C15725.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART_NUM"; Value = "CL10B104KC8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(7343–31)
+Add component (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C3216X5R1C106K)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C3216X5R1C106K)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0603C104K5RACTU)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0603C104K5RACTU)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0603C104K5RACTU)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C0603C104K5RACTU)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C15725"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10B104KC8NNNC_100nF-104-10-100V_C15725.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART_NUM"; Value = "CL10B104KC8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C0603C104K5RACTU)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C15725"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10B104KC8NNNC_100nF-104-10-100V_C15725.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART_NUM"; Value = "CL10B104KC8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(3216 Case-A)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C110052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Tantalum-Capacitors_KEMET_T491A106K010AT_10uF-106-10-10V_C110052.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C17(TAJB107M006RNJ)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C90975"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Tantalum-Capacitors_KEMET-T491B107M010AT_C90975.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.29"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(Diode S4)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C122854"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Shikues-B5817WS_C122854.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.0211"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD-123_L2.7-W1.6-LS3.7-RD)
+Add component (AddParameter): Name = "BOM_JLCPCB SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MMSZ7V5T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C154776"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "MMSZ7V5T1G"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(TO252)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.national.com/ds/LM/LM1117.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C157401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_STMicroelectronics-LD1117ADT33TR_C157401.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.96"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(SMT-JUMPER_2_NO_NO-SILK)
+Added Component: Designator=LS1(VERDE 2pin)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C475088"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/New-Quadratic-Unclassified-Data_Cixi-Kefa-Elec-KF103-5-0-2P_C475088.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=LS2(VERDE 2pin)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C475088"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/New-Quadratic-Unclassified-Data_Cixi-Kefa-Elec-KF103-5-0-2P_C475088.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1(USB_MICRO_B_AT)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C10418"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-Jing-Extension-of-the-Electronic-Co-MICRO-USB-5S-B-Type-horns-High-temperature_C10418.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.06"; VariantName = "[No Variations]"
+Added Component: Designator=P2(IDC8X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(VERDE 2pin)
+Added Component: Designator=Q1(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Add component (AddParameter): Name = "BOM_JLCPCB SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "IR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "IRLML6402TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C2593"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C2593.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "IRLML6402TRPBF"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23-TT3_N)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C150052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Transistors-NPN-PNP_ON-Semiconductor-ON-MMBT3904LT3G_C150052.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.019"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT-23-TT3_N)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C150052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Transistors-NPN-PNP_ON-Semiconductor-ON-MMBT3904LT3G_C150052.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.019"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C17710"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F4700T5E_C17710.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.0025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "52.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C17710"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F4700T5E_C17710.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.0025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C17444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1202T5E_C17444.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.029"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C17444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1202T5E_C17444.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.029"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C17710"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F4700T5E_C17710.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.0025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C17414"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1002T5E_C17414.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.0023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES-0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C17414"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1002T5E_C17414.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.0023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C17414"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1002T5E_C17414.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.0023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES-TH_RK10J12E002L)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ALPS Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RK10J12E002L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C231765"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RK10J12E002L"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES-0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C17414"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1002T5E_C17414.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.0023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(QFN50P500X500X100-29N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C6568"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link Store"; Value = "https://lcsc.com/product-detail/USB-ICs_SILICON-LABS_CP2102-GMR_SILICON-LABS-CP2102-GMR_C6568.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CP2102-GMR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VFQFN-28 Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$1.6"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC-16)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PAM8403DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "Average Price:
+ 
+$0.44 USD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+3.3VDC Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+3.3VDC Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VUSB Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VUSB Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+3.3VDC Pin=C5-2
+Added Pin To Net: NetName=+3.3VDC Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=EN Pin=C7-2
+Added Pin To Net: NetName=+5VDC Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=+5VDC Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=+5VDC Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=+5VDC Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+3.3VDC Pin=C15-2
+Added Pin To Net: NetName=+5VDC Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=+3.3VDC Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=+5VDC Pin=D1-1
+Added Pin To Net: NetName=VUSB Pin=D1-2
+Added Pin To Net: NetName=+5VDC Pin=D2-1
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=+5VDC Pin=IC1-3
+Added Pin To Net: NetName=+3.3VDC Pin=IC1-4
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=VUSB Pin=P1-1
+Added Pin To Net: NetName=USB_M Pin=P1-2
+Added Pin To Net: NetName=USB_P Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-7
+Added Pin To Net: NetName=GND Pin=P2-9
+Added Pin To Net: NetName=GND Pin=P2-11
+Added Pin To Net: NetName=GND Pin=P2-13
+Added Pin To Net: NetName=GND Pin=P2-15
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=+5VDC Pin=Q1-2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=RTS Pin=Q2-2
+Added Pin To Net: NetName=EN Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=DTR Pin=Q3-2
+Added Pin To Net: NetName=FLASH Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R3-1
+Added Pin To Net: NetName=DTR Pin=R3-2
+Added Pin To Net: NetName=NetQ3_1 Pin=R4-1
+Added Pin To Net: NetName=RTS Pin=R4-2
+Added Pin To Net: NetName=+3.3VDC Pin=R5-1
+Added Pin To Net: NetName=EN Pin=R5-2
+Added Pin To Net: NetName=+5VDC Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=+5VDC Pin=R10-1
+Added Pin To Net: NetName=DCD Pin=U1-1
+Added Pin To Net: NetName=RI Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=USB_P Pin=U1-4
+Added Pin To Net: NetName=USB_M Pin=U1-5
+Added Pin To Net: NetName=+3.3VDC Pin=U1-6
+Added Pin To Net: NetName=+3.3VDC Pin=U1-7
+Added Pin To Net: NetName=VUSB Pin=U1-8
+Added Pin To Net: NetName=ACTIVE Pin=U1-11
+Added Pin To Net: NetName=CTS Pin=U1-23
+Added Pin To Net: NetName=RTS Pin=U1-24
+Added Pin To Net: NetName=DSR Pin=U1-27
+Added Pin To Net: NetName=DTR Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=+5VDC Pin=U3-4
+Added Pin To Net: NetName=NetR6_2 Pin=U3-5
+Added Pin To Net: NetName=+5VDC Pin=U3-6
+Added Pin To Net: NetName=NetR7_2 Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Pin To Net: NetName=+5VDC Pin=U3-13
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Pin To Net: NetName=CP_RXD Pin=R2-1
+Added Net: Name=CP_RXD
+Added Pin To Net: NetName=CP_TXD Pin=U1-26
+Added Net: Name=CP_TXD
+Added Pin To Net: NetName=DMD_A Pin=P2-2
+Added Net: Name=DMD_A
+Added Pin To Net: NetName=DMD_B Pin=P2-4
+Added Net: Name=DMD_B
+Added Pin To Net: NetName=DMD_CLK Pin=P2-8
+Added Net: Name=DMD_CLK
+Added Pin To Net: NetName=DMD_DATA Pin=P2-12
+Added Net: Name=DMD_DATA
+Added Pin To Net: NetName=DMD_E Pin=JP1-1
+Added Net: Name=DMD_E
+Added Pin To Net: NetName=DMD_SCLK Pin=P2-10
+Added Net: Name=DMD_SCLK
+Added Net: Name=GPIO 04
+Added Net: Name=GPIO 05
+Added Net: Name=GPIO 12
+Added Net: Name=GPIO 13
+Added Net: Name=GPIO 14
+Added Net: Name=GPIO 15
+Added Net: Name=GPIO 16
+Added Net: Name=GPIO 17
+Added Pin To Net: NetName=GPIO 25 Pin=R9-3
+Added Net: Name=GPIO 25
+Added Pin To Net: NetName=GPIO 26 Pin=R9-5
+Added Net: Name=GPIO 26
+Added Net: Name=GPIO 27
+Added Net: Name=GPIO 32
+Added Net: Name=GPIO 33
+Added Net: Name=GPIO 34
+Added Net: Name=GPIO 35
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=R7-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=R9-4
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=R8-1
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R9-2
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=U3-8
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=Q1-1
+Added Pin To Net: NetName=NetD2_2 Pin=R1-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=P2-1
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_1 Pin=U3-1
+Added Net: Name=NetLS1_1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=NetLS1_2 Pin=U3-3
+Added Net: Name=NetLS1_2
+Added Pin To Net: NetName=NetLS2_1 Pin=LS2-1
+Added Pin To Net: NetName=NetLS2_1 Pin=U3-14
+Added Net: Name=NetLS2_1
+Added Pin To Net: NetName=NetLS2_2 Pin=LS2-2
+Added Pin To Net: NetName=NetLS2_2 Pin=U3-16
+Added Net: Name=NetLS2_2
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=Q1-3
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-25
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U3-10
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U3-12
+Added Net: Name=NetR10_2
+Added Class: Name=SH5
+Added Member To Class: ClassName=SH3 Member=Component C1 CL10B104KC8NNNC
+Added Member To Class: ClassName=SH3 Member=Component C2 CL10A106KP8NNNC
+Added Member To Class: ClassName=SH3 Member=Component C3 CL10B104KC8NNNC
+Added Member To Class: ClassName=SH3 Member=Component C4 CL10A106KP8NNNC
+Added Member To Class: ClassName=SH2 Member=Component C5 CL10B104KC8NNNC
+Added Member To Class: ClassName=SH2 Member=Component C6 T491A106K010AT2478
+Added Member To Class: ClassName=SH2 Member=Component C7 CL10B104KC8NNNC
+Added Member To Class: ClassName=SH4 Member=Component C8 470uF
+Added Member To Class: ClassName=SH4 Member=Component C9 1uF
+Added Member To Class: ClassName=SH4 Member=Component C10 1uF
+Added Member To Class: ClassName=SH4 Member=Component C11 470nF
+Added Member To Class: ClassName=SH4 Member=Component C12 470nF
+Added Member To Class: ClassName=SH4 Member=Component C13 100nF
+Added Member To Class: ClassName=main_sheet Member=Component D1 B5817WS
+Added Member To Class: ClassName=main_sheet Member=Component D2 MMSZ7V5T1G
+Added Member To Class: ClassName=main_sheet Member=Component JP1 JUMPER NO
+Added Member To Class: ClassName=SH4 Member=Component LS1 KF103-5.0-2P
+Added Member To Class: ClassName=SH4 Member=Component LS2 KF103-5.0-2P
+Added Member To Class: ClassName=main_sheet Member=Component P1 C10418
+Added Member To Class: ClassName=main_sheet Member=Component P2 IDC-8X2
+Added Member To Class: ClassName=main_sheet Member=Component P3 Bornera x2
+Added Member To Class: ClassName=main_sheet Member=Component Q1 IRLML6402TRPBF
+Added Member To Class: ClassName=SH3 Member=Component Q2 MMBT3904LT3G
+Added Member To Class: ClassName=SH3 Member=Component Q3 MMBT3904LT3G
+Added Member To Class: ClassName=main_sheet Member=Component R1 0805W8F4700T5E
+Added Member To Class: ClassName=SH3 Member=Component R2 0805W8F4700T5E
+Added Member To Class: ClassName=SH3 Member=Component R3 0805W8F1202T5E
+Added Member To Class: ClassName=SH3 Member=Component R4 0805W8F1202T5E
+Added Member To Class: ClassName=SH2 Member=Component R5 0805W8F4700T5E
+Added Member To Class: ClassName=SH4 Member=Component R6 0805W8F1002T5E
+Added Member To Class: ClassName=SH4 Member=Component R7 0805W8F1002T5E
+Added Member To Class: ClassName=SH4 Member=Component R8 0805W8F1002T5E
+Added Member To Class: ClassName=SH4 Member=Component R9 10K
+Added Member To Class: ClassName=SH4 Member=Component R10 0805W8F1002T5E
+Added Member To Class: ClassName=SH3 Member=Component U1 CP2102-GMR
+Added Member To Class: ClassName=SH4 Member=Component U3 Audio Amp Stereo Class-D
+Added Member To Class: ClassName=CP2102 Member=Wire CP_RXD
+Added Member To Class: ClassName=CP2102 Member=Wire CP_TXD
+Added Member To Class: ClassName=CP2102 Member=Wire NetR2_2
+Added Room: Name=SH5
