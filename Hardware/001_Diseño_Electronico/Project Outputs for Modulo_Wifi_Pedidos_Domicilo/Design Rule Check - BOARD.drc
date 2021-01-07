@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Erick Miranda\Documents\Proyectos TIA\patalla_pedidos_domicilo_TIA\Hardware\001_Diseño_Electronico\BOARD.PcbDoc
-Date     : 1/6/2021
-Time     : 4:01:24 PM
+Date     : 1/7/2021
+Time     : 9:27:02 AM
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(HasFootprint('USB_MICRO_B_AT'))
 Rule Violations :0
@@ -72,4 +72,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
